@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: chat-box
+  security:
+    user:
+      name: admin
+      password: password
